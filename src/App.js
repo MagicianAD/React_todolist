@@ -37,6 +37,7 @@ function App() {
       <header>
         <h1>Sticky Notes</h1>
       </header>
+
       <Form
         inputText={inputText}
         todos={todos}
